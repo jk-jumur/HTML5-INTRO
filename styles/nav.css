@@ -1,0 +1,17 @@
+nav ul{
+    display: flex;
+}
+
+nav li{
+     list-style-type: none;
+     margin-right: 10px;
+}
+
+nav li a{
+     text-decoration: none;
+     color:rgb(0, 195, 255);
+}
+
+nav li:hover{
+     background-color:crimson;
+}
